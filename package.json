@@ -1,0 +1,28 @@
+{
+  "name": "curriculo",
+  "version": "0.0.1",
+  "description": "Meu curriculo em Markdown e PDF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aferreira44/curriculo.git"
+  },
+  "keywords": [
+    "resume",
+    "curriculo",
+    "markdown",
+    "pdf"
+  ],
+  "author": "André Ferreira",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/aferreira44/curriculo/issues"
+  },
+  "homepage": "https://github.com/aferreira44/curriculo#readme",
+  "devDependencies": {
+    "markdown-pdf": "^8.0.0"
+  }
+}
