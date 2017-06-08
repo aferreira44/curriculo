@@ -42,19 +42,17 @@ Certificado pelo Google em Google Analytics e experiência de 4 anos em Marketin
 
 ## Experiência Profissional
 
-### Desenvolvedor Web Full Stack - [NegocieCoins](http://www.negociecoins.com.br) - 05/2015 até hoje
+### Desenvolvedor Web Full Stack - [NegocieCoins](http://www.negociecoins.com.br) - Mai/2015 até hoje
 
 *Plataforma de Negociação de Criptomoedas (Bitcoin e Litecoin)*
 
 > Desenvolvimento Web Full Stack utilizando HTML/CSS, Bootstrap, JavaScript, .NET (C#), NHibernate e SQL Server. Otimização on-page e off-page para motores de busca (SEO).
 
-### Analista de SEO - Agência Mirum - 10/2014 até 05/2015
+### Analista de SEO - [Agência Mirum](https://www.mirumagency.com/curitiba) - Out/2014 até Mai/2015
 
 *Agência Digital Multinacional*
 
-> Principais clientes: HSBC, GOL, Época Cosméticos, Porto Seguro, Magazine Luiza e Cyrela Imóveis
-Análise técnica de websites visando otimização para motores de busca.
-Produção de recomendações e relatórios de SEO.
+> Análise técnica de websites com produção de recomendações e relatórios para otimização de motores de busca (SEO). Principais clientes: HSBC, GOL, Época Cosméticos, Porto Seguro, Magazine Luiza e Cyrela Imóveis.
 
 ### Criação de Website Freelance - [Graciele Dombek Fotografia](http://www.gracieledombek.com.br) - 2015
 
@@ -64,11 +62,11 @@ Produção de recomendações e relatórios de SEO.
 
 > Website criado em Wordpress com tema personalizado.
 
-### Analista de Marketing Digital - [Excom Comunicação](http://excom.com.br/) - 01/2012 até 06/2013
+### Analista de Marketing Digital - [Excom Comunicação](http://excom.com.br/) - Jan/2012 até Jun/2013
 
 *Agência de Comunicação Digital*
 
-> Principais Clientes: Shopping São José, Lady&Lord, Hospital Vitória, Habitec Imóveis, Thá Imóveis e Amil. Gestão de mídias sociais, campanhas no Google AdWords e Facebook Ads e promoções offline. Produção de peças gráficas (Photoshop e InDesign) e produção de textos para blogs.
+> Gestão de mídias sociais, campanhas de Links Patrocinados (Google AdWords e Facebook Ads), produção de peças gráficas (Photoshop e InDesign) e de textos para blogs. Principais Clientes: Shopping São José, Lady&Lord, Hospital Vitória, Habitec Imóveis, Thá Imóveis e Amil.
 
 ## Formação Acadêmica
 
@@ -94,6 +92,7 @@ Espanhol: nível básico (leitura/conversação básica).
 
 ### Cursos e Certificações
 
+- How to Use Git and GitHub - Coursera - Conclusão: 2017
 - Maratona Xamarin Básico - Microsoft - Conclusão: 2017
 - JavaScript Testing - Udacity - Conclusão: 2017
 - Client Needs and Software Requirements – Alberta University - Coursera - Conclusão: 2017
