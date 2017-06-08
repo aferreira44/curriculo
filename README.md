@@ -2,9 +2,11 @@
 
 Blog: [https://www.andreferreira.me](https://www.andreferreira.me)
 
-Encontre-me no Facebook, Twitter, LinkedIn, GitHub e StackOverflow.
+Encontre-me no [Facebook](https://www.facebook.com/aferreira44), [Twitter](https://twitter.com/aferreira44), [LinkedIn](https://www.linkedin.com/in/aferreira44/), [GitHub](https://github.com/aferreira44) e [StackOverflow](https://stackoverflow.com/users/3196610/andr%C3%A9-ferreira).
  
-E-mail: [contato@andreferreira.me](mailto:contato@andreferreira.me) / Skype: andreferreira.me
+E-mail: [contato@andreferreira.me](mailto:contato@andreferreira.me) / Skype: [andreferreira.me](skype:andreferreira.me?call)
+
+Mobile: [+55 41 98460 4949](tel:+5541984604949)
 
 ## Sobre mim
 
@@ -18,9 +20,9 @@ Certificado pelo Google em Google Analytics e experiência de 4 anos em Marketin
 
 ## Alguns projetos legais
 
-### PeaceCoin Ethereum Dapp - TCC de Tecnologia em Sistemas para Internet
+### PeaceCoin Ethereum DApp - TCC de Tecnologia em Sistemas para Internet
 
-> Criação de protótipo de plataforma social para Peacelabs.co com remuneração de colaboradores de projetos sociais utilizando a criptomoeda *ether*. Criação de API e interfaces administrativa e cliente utilizando framework Meteor.js e biblioteca web3.js do Ethereum.
+> Criação de protótipo de plataforma social para [Peacelabs](http://peacelabs.co) com remuneração de colaboradores de projetos sociais utilizando a criptomoeda *[ether](https://www.ethereum.org/ether)*. Criação de API e interfaces administrativa e cliente utilizando framework [Meteor.js](https://www.meteor.com/) e biblioteca [web3.js](https://github.com/ethereum/web3.js/) do [Ethereum](https://www.ethereum.org/).
 
 - [GitHub - Repositório Admin API](https://github.com/andreferreira-me/peacecoin-admin-api)
 - [GitHub - Repositório Cliente](https://github.com/andreferreira-me/peacecoin-peacelabs)
@@ -39,13 +41,6 @@ Certificado pelo Google em Google Analytics e experiência de 4 anos em Marketin
 - Finanças pessoais, mercado financeiro e investimentos
 
 ## Experiência Profissional
- 
-Excom Comunicação (Social Media e Links Patrocinados)	                           Período: Jan/2012 até Jun/2013
-Agência de Comunicação Digital
-Principais Clientes: Shopping São José, Lady&Lord, Hospital Vitória, Habitec Imóveis, Thá Imóveis e Amil.
-Gestão de mídias sociais, campanhas no Google AdWords e Facebook Ads e promoções offline.
-Produção de peças gráficas (Photoshop e InDesign) e produção de textos para blogs.
-
 
 ### Desenvolvedor Web Full Stack - [NegocieCoins](http://www.negociecoins.com.br) - 05/2015 até hoje
 
@@ -63,16 +58,27 @@ Produção de recomendações e relatórios de SEO.
 
 ### Criação de Website Freelance - [Graciele Dombek Fotografia](http://www.gracieledombek.com.br) - 2015
 
+> Website criado em Wordpress com tema personalizado e conteúdo otimizado para SEO.
+
 ### Criação de Website Freelance - [Alysson Zastanni](http://www.zastannifoto.com.br) - 2015
+
+> Website criado em Wordpress com tema personalizado.
+
+### Analista de Marketing Digital - [Excom Comunicação](http://excom.com.br/) - 01/2012 até 06/2013
+
+*Agência de Comunicação Digital*
+
+> Principais Clientes: Shopping São José, Lady&Lord, Hospital Vitória, Habitec Imóveis, Thá Imóveis e Amil. Gestão de mídias sociais, campanhas no Google AdWords e Facebook Ads e promoções offline. Produção de peças gráficas (Photoshop e InDesign) e produção de textos para blogs.
 
 ## Formação Acadêmica
 
 ### Tecnologia em Sistemas para Internet – Universidade Positivo
+
 *Conclusão: Junho/2016*
 
 
- 
-### Bacharelado em Com. Social – Publicidade, Propaganda e Marketing – UNINTER	
+### Bacharelado em Comunicação Social – Publicidade, Propaganda e Marketing – UNINTER
+
 *Conclusão: Junho/2012*
 
 ## Extras
@@ -83,10 +89,8 @@ Inglês: nível avançado (escrita/leitura/conversação).
 
 - English Regular Course – Influx English School - Conclusão: Junho / 2016
 - Exame de Proficiência TOEIC - Nota: 785 (máx. 990) - Validade: Julho / 2016 - Julho / 2018
- 
-Espanhol: nível básico (leitura/conversação básica).
 
-- Inglês avançado com certificação TOEIC.
+Espanhol: nível básico (leitura/conversação básica).
 
 ### Cursos e Certificações
 
