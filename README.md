@@ -10,11 +10,11 @@ Mobile: [+55 41 98460 4949](tel:+5541984604949)
 
 ## Sobre mim
 
-Desenvolvedor Web Full Stack, Publicitário e entusiasta de Bitcoin e outras tecnologias blockchain.
+Desenvolvedor Web Full Stack e Publicitário. Entusiasta de Bitcoin e outras tecnologias blockchain.
 
-Tecnólogo em Sistemas para Internet e bacharel em Comunicação Social - Publicidade, Propaganda e Marketing.
+Tecnólogo em Sistemas para Internet pela Universidade Positivo e bacharel em Comunicação Social - Publicidade, Propaganda e Marketing pela UNINTER.
 
-Certificado pelo Google em Google Analytics e experiência de 4 anos em Marketing Digital na gestão de campanhas de SEO, links patrocinados e mídias sociais.
+Experiência de 4 anos em Marketing Digital na gestão de campanhas de SEO, links patrocinados e mídias sociais.
 
 [Mais sobre mim](https://www.andreferreira.me/sobre-mim)
 
