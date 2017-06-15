@@ -34,7 +34,7 @@ Certificado pelo Google em Google Analytics e experiência de 4 anos em Marketin
 - Node.js e MongoDB
 - Git - GitHub e Bitbucket
 - Conhecimento básico de Wordpress, PHP, Python e MySQL
-- SEO, Google Analytics e Google Adwords
+- Técnicas de SEO ([MOZ](https://moz.com/), [Ahrefs](https://ahrefs.com/) e [SEMRush](https://www.semrush.com/)), Google Analytics e Google Adwords
 - UX, UI, Photoshop e Illustrator
 - Business Model Canvas e Lean
 - Kanban, SCRUM e GTD - Trello e VSTS
